@@ -1,0 +1,10 @@
+to check the status of repository git status
+git clone "https link of repository"
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+git add --all
+git add "file name"
+git commit -m "Message"
+git push
